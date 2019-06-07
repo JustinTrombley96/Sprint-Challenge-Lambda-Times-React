@@ -4,7 +4,7 @@ Proptypes are used to check our data on a component by component bases. This all
 
 - [ ] Describe a life-cycle event in React?
 
-A lifecycle event in react is a set of phases in a component's life. The Birth/Mounting phase is when the component is being built out from the ground up. Whatever initial data you'll have acces to will be defined on the constructor of this phase. Your rendor method is then invoked.
+A lifecycle event in react is a set of phases in a component's life. The Birth/Mounting phase is when the component is being built out from the ground up. Whatever initial data you'll have access to will be defined on the constructor of this phase. Your rendor method is then invoked.
 
 - [ ] Explain the details of a Higher Order Component?
 
